@@ -26,12 +26,12 @@ const IndexPage = () => {
             <br/>
             <input type="text"></input>
             <br/>
-            <button>Submit</button>
+            <button>nothing</button>
           </p>
 
           <footer className='footer'>
             <a
-              href="https://acloud.guru"
+              href="https://nice.guru"
             >
               Powered by{' '}
               <span className='logo'>
